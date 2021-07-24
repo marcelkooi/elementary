@@ -32,9 +32,9 @@ Here in the `examples/` directory you'll find a small set of example projects ai
 example can be invoked on its own:
 
 ```bash
-$ cd examples/00_HelloSine
+$ cd examples
 $ npm install
-$ npm start
+$ npm start 00_HelloSine
 ```
 
 And of course you can open these example files, poke around, and edit as you like!
